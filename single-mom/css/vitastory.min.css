@@ -45,11 +45,13 @@
 
 .source {
 	font-size: 14px;
-	
+	color:  #b3b3b3;
+	text-align: left;
 }
 
+
 .source a{
-	
+	color:  #b3b3b3
 }
 
 /*downarrow*/
