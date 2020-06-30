@@ -217,6 +217,22 @@
 	background-color: transparent;
 }
 
+.btn.name.bottom{
+	background-color: #4d4d4d;
+	color: white;
+	border-color:#4d4d4d;
+	min-width: 20%;
+	scroll-behavior: auto;
+	width: 100%;
+	margin: 0rem;
+	font-size: 16px;
+	border-radius: 0px 0px 20px 20px;
+}
+
+.backtotop{
+	width: 100%;
+}
+
 @media (max-width: 576px){
 	
 #story .content.list-group button {
