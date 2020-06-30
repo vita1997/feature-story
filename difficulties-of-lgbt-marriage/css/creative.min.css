@@ -45,8 +45,10 @@
 
 .source {
 	font-size: 14px;
-	color:  #b3b3b3
+	color:  #b3b3b3;
+	text-align: left;
 }
+
 
 .source a{
 	color:  #b3b3b3
@@ -508,7 +510,7 @@ p {
 	width: 100%;
 }
 
-.pic-caption{
+.caption{
 	text-align: center;
 	font-size: 14px;
 	display: inline-block;
