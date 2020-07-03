@@ -18,6 +18,10 @@ body {
   background-size: cover;
 }
 
+.bg-dark {
+	color: #00802b!important;
+}
+
 .portfolio-item {
   margin-bottom: 30px;
 }
