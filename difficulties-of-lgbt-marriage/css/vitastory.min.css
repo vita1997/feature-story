@@ -477,7 +477,7 @@ p {
 .pic-caption {
 	text-align: center;
 	font-size: 16px;
-	display: inline-block;
+	display: none;
 	line-height: 1.3;
 	color: #999;
 	margin: 10px auto;
@@ -489,6 +489,7 @@ p {
 	text-align: center;
 	font-size: 16px;
 	margin: 0;
+	display: none;
 }
 
 .pic {
@@ -512,7 +513,7 @@ p {
 .caption{
 	text-align: center;
 	font-size: 14px;
-	display: inline-block;
+	display: none;
 	line-height: 1.3;
 	color: #999;
 	margin: 10px auto;
